@@ -1,5 +1,13 @@
-.container {
-    width: 19px;
-    height: 19px;
+#container {
+    display: grid;
+    width: 960px;
+    height: 960px;
     border: 1px solid black;
+}
+
+.cell {
+   border: 1px solid black;
+}
+.color-class {
+    background-color: black;
 }
