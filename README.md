@@ -1,0 +1,1 @@
+Creates a playable Etch-a-Sketch game using Javascript DOM manipulation to created the grid everytime the rest button is pressed. 
